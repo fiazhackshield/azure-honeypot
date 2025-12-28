@@ -1,6 +1,6 @@
 # Azure Honeypot with T-Pot
 
-Live Guide: [https://fiazhacksheild.github.io/azure-honeypot](https://fiazhacksheild.github.io/azure-honeypot)
+Live Guide: [https://fiazhackshield.github.io/azure-honeypot/](https://fiazhackshield.github.io/azure-honeypot/)
 
 This project demonstrates how to deploy a T-Pot honeypot on Microsoft Azure, expose it intentionally for research, and analyze real-world attack traffic using built-in dashboards.
 
